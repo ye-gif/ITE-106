@@ -5,7 +5,7 @@ public class GFG{
 	{
 	
 		FileReader fr = new FileReader(
-			"C:\\user\\pankaj\\Destop\\test.txt");
+			"C:\\Users\\CLAB01-PCC29\\Downloads");
 			
 			int i = 0;
 			
